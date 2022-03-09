@@ -1,6 +1,7 @@
 ### 'Ello.
 
 - I’m not mainly working on personal projects right now.
+- Archived repos are for personal projects that are not done and have no plan to resume.
 - You can contact me by [Mail](mailto:ruby3141@gmail.com) \
   But if you want to ask about personal project I made before, please use Issue tab first.
 
